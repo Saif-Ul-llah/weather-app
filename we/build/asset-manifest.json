@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d49001d.css",
+    "main.css": "/static/css/main.bd88a98b.css",
     "main.js": "/static/js/main.fd9747e5.js",
     "static/js/787.d1d4a2c2.chunk.js": "/static/js/787.d1d4a2c2.chunk.js",
-    "static/media/pexels-brett-sayles-1431822.jpg": "/static/media/pexels-brett-sayles-1431822.5c52ed3f061bd9bf0375.jpg",
     "index.html": "/index.html",
-    "main.2d49001d.css.map": "/static/css/main.2d49001d.css.map",
+    "main.bd88a98b.css.map": "/static/css/main.bd88a98b.css.map",
     "main.fd9747e5.js.map": "/static/js/main.fd9747e5.js.map",
     "787.d1d4a2c2.chunk.js.map": "/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d49001d.css",
+    "static/css/main.bd88a98b.css",
     "static/js/main.fd9747e5.js"
   ]
 }
